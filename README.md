@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring and trying new things, photography, and creative tech projects
 - 🌱 I’m currently learning 🌱 Python,computer networks, machine learning, and full-stack web development.
 
-🔗 [Check my portfolio](https://gyuvaraj.dev)
+🔗 [gyuvaraj.dev](https://gyuvaraj.dev)
 
 
 <!---
